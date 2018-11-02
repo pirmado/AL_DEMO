@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Test AL NAV2018",
+            "server": "http://NAV2018CU1",
+            "port": 7049,
+            "serverInstance": "nav",
+            "authentication": "Windows",
+            "startupObjectId": 22
+        }
+    ]
+}
