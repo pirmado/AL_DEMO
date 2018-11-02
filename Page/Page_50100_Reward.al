@@ -50,6 +50,15 @@ page 50100 "My Rewards"
                     Message('123');
                 end;
             }
+            action("Test Message 2")
+            {
+                ApplicationArea = All;
+
+                trigger OnAction();
+                begin
+                    Message('456');
+                end;
+            }
         }
     }
 }
