@@ -9,7 +9,7 @@
             "port": 7049,
             "serverInstance": "nav",
             "authentication": "Windows",
-            "startupObjectId": 22
+            "startupObjectId": 50100
         }
     ]
 }
